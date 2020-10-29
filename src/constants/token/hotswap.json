@@ -1,0 +1,245 @@
+{
+  "name": "hotswap",
+  "timestamp": "2020-10-26T11:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 3
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wbnb.png",
+  "keywords": ["hotswap", "default"],
+  "tokens": [
+     {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18
+    },
+     {
+      "name": "Kiwi Token",
+      "symbol": "KIWI",
+      "address": "0x28db020a1c976167cDe0d2B78221ED4659d9ec0a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/KIWI.png"
+    },
+    {
+      "name": "SYRUP Token",
+      "symbol": "SYRUP",
+      "address": "0x009cF7bC57584b7998236eff51b98A168DceA9B0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/SYRUP.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/ETH.png"
+    },
+    {
+      "name": "cheesemaker.farm",
+      "symbol": "CHS",
+      "address": "0xaDD8A06fd58761A5047426e160B2B88AD3B9D464",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Butter Token",
+      "symbol": "BUTT",
+      "address": "0x0bC907e26377f7E072D27d7c57e72e13fc343AbC",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUTT.png"
+    },
+    {
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BTC-icon.png"
+    },
+    {
+      "name": "BAND Protocol Token",
+      "symbol": "BAND",
+      "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/band.png"
+    },
+    {
+      "name": "EOS Token",
+      "symbol": "EOS",
+      "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/eos.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/USDT-icon.png"
+    },
+     {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/USDC.png"
+      },
+    {
+      "name": "XRP Token",
+      "symbol": "XRP",
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/XRP-icon.png"
+    },
+    {
+      "name": "Bitcoin Cash Token",
+      "symbol": "BCH",
+      "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BCH-icon.png"
+    },
+    {
+      "name": "Litecoin Token",
+      "symbol": "LTC",
+      "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/LTC-icon.png"
+    },
+    {
+      "name": "Cardano Token",
+      "symbol": "ADA",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Cosmos Token",
+      "symbol": "ATOM",
+      "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Hotdog.Cafe",
+      "symbol": "HOTDOG",
+      "address": "0x55f0799D60F5f1046971d494bCe376A09Dd4C668",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Hot Sausage",
+      "symbol": "HOTS",
+      "address": "0x793766efcA4CEF8c55EE950E759AD6FF73D49c09",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Tezos Token",
+      "symbol": "XTZ",
+      "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Ontology Token",
+      "symbol": "ONT",
+      "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Zcash Token",
+      "symbol": "ZEC",
+      "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/DAI-icon.png"
+    },
+    {
+      "name": "Cream",
+      "symbol": "CREAM",
+      "address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
+      "chainId": 56,
+      "decimals": 18
+    },
+     {
+      "name": "Polkadot Token",
+      "symbol": "DOT",
+      "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Streamity",
+      "symbol": "STM",
+      "address": "0x90df11a8cce420675e73922419e3f4f3fe13cccb",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Ankr",
+      "symbol": "ANKR",
+      "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Burger Swap",
+      "symbol": "BURGER",
+      "address": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Trust Wallet",
+      "symbol": "TWT",
+      "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+      "chainId": 56,
+      "decimals": 18
+    }
+  ]
+}
