@@ -5,7 +5,7 @@ import TranslatedText from '../TranslatedText'
 const Nav: React.FC = () => {
   return (
     <StyledNav>
-      <StyledAbsoluteLink href="https://hotswap.linl/#swap" className="active" rel="noopener noreferrer">
+      <StyledAbsoluteLink href="https://hotswap.link/#swap" className="active" rel="noopener noreferrer">
         <TranslatedText translationId={8}>Swap</TranslatedText>
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://hotdog.cafe/farm" rel="noopener noreferrer">
